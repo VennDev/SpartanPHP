@@ -16,3 +16,7 @@
     "quality_runtime": 5 // Timeout to check input and output quality when running the environment as well as encode.
 }
 ```
+
+# Next Update
+- UI for SpartanPHP
+- Add in environmental fluctuations for better navigation.
