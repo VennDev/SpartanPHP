@@ -6,3 +6,13 @@
 
 # Note
 - This software only runs software like [PocketMine](https://github.com/pmmp/PocketMine-MP) or the autoload mechanism like PocketMine does not support static software.
+
+# Settings
+```json
+{
+    "hard_crypt": 1000, // This is the difficulty for your source code.
+    "path_environment": "start.cmd", // This is your environment file such as the start.cmd of a piece of software to run it overall.
+    "path_project": "your_path", // The path to use for encoding as well as running encoded codes.
+    "quality_runtime": 5 // Timeout to check input and output quality when running the environment as well as encode.
+}
+```
