@@ -20,3 +20,4 @@
 # ⬆ Next Update
 - UI for SpartanPHP
 - Add in environmental fluctuations for better navigation.
+- Add more coding difficulty.
