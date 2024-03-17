@@ -4,10 +4,10 @@
 - Encrypt is quite powerful for the PHP language to protect your code from people who steal or try to reveal the source code.
 - You should edit in `settings.json`
 
-# Note 📝
+# 📝 Note
 - This software only runs software like [PocketMine](https://github.com/pmmp/PocketMine-MP) or the autoload mechanism like PocketMine does not support static software.
 
-# Settings 🛠
+# 🛠 Settings
 ```json
 {
     "hard_crypt": 1000, // This is the difficulty for your source code.
@@ -17,6 +17,6 @@
 }
 ```
 
-# Next Update ⬆
+# ⬆ Next Update
 - UI for SpartanPHP
 - Add in environmental fluctuations for better navigation.
