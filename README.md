@@ -6,6 +6,7 @@
 - You should edit in `settings.json`
 
 # 📝 Note
+- It's possible that antivirus software will warn this tool, but ignore it because it's safe!
 - This software only runs software like [PocketMine](https://github.com/pmmp/PocketMine-MP) or the autoload mechanism like PocketMine does not support static software.
 
 # 🛠 Settings
