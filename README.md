@@ -7,6 +7,7 @@
 
 # 📝 Note
 - It's possible that antivirus software will warn this tool, but ignore it because it's safe!
+- Can you check it here: [VirusTotal](https://www.virustotal.com/gui/file/fbd96feeb829a1db4715e129ec6faf0ede002a6f347adfe13e8bf52e2a7735f2?nocache=1) and [Evidence](https://www.techspot.com/community/topics/virustotal-says-malicious-on-virus-scan-is-it-ai-or-a-virus.264181/#google_vignette)
 - This software only runs software like [PocketMine](https://github.com/pmmp/PocketMine-MP) or the autoload mechanism like PocketMine does not support static software.
 
 # 🛠 Settings
