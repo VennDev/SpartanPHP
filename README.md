@@ -13,14 +13,14 @@
 # 🛠 Settings
 ```json
 {
+    "just_run": true, // This is mode just run your encoded.
     "hard_crypt": 1000, // This is the difficulty for your source code.
-    "path_environment": "start.cmd", // This is your environment file such as the start.cmd of a piece of software to run it overall.
-    "path_project": "your_path", // The path to use for encoding as well as running encoded codes.
+    "path_environment": "{$current_path}\\start.cmd", // This is your environment file such as the start.cmd of a piece of software to run it overall.
+    "path_project": "{$current_path}\\your_path", // The path to use for encoding as well as running encoded codes.
     "quality_runtime": 5 // Timeout to check input and output quality when running the environment as well as encode.
 }
 ```
 
 # ⬆ Next Update
 - UI for SpartanPHP
-- Add in environmental fluctuations for better navigation.
 - Add more coding difficulty.
