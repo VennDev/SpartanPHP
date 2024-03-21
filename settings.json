@@ -1,7 +1,0 @@
-{
-    "just_run": true,
-    "hard_crypt": 1000,
-    "path_environment": "{$current_path}\\start.cmd",
-    "path_project": "{$current_path}\\code",
-    "quality_runtime": 5
-}
