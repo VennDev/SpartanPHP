@@ -1,8 +1,6 @@
 <?php
 
-$extensionName = 'spartan';
-
-if (extension_loaded($extensionName)) {
+if (extension_loaded('spartan')) {
     echo "Extension '$extensionName' is loaded\n";
 } else {
     echo "Extension '$extensionName' is not loaded\n";
