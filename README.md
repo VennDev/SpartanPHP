@@ -8,4 +8,4 @@
 - There are currently no release tools to encode because I am planning to sell them or release them at the appropriate time :)) you can contact me.
 
 # Note
-- ``PHP >= 8.2`` `(recommended 8.2.17)` if you want test `Test.php` file in here [Click](https://github.com/VennDev/SpartanPHP/tree/main/tests)
+- ``PHP >= 8.2`` if you want test `Test.php` file in here [Click](https://github.com/VennDev/SpartanPHP/tree/main/tests)
