@@ -8,7 +8,7 @@
 - There are currently no release tools to encode because I am planning to sell them or release them at the appropriate time :)) you can contact me.
 
 # Note
-- You can test file  `Test.php` in here [Click Here!](https://github.com/VennDev/SpartanPHP/tree/main/installer)
+- You can test file in here [Click Here!](https://github.com/VennDev/SpartanPHP/tree/main/installer)
 ## How to run file encoded ? ##
 ### -Windows- ###
 - Just run file encoded with cmd `php name_file.php`
