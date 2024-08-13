@@ -15,6 +15,6 @@
 ### -Linux- ###
 - You must run with cmd `sudo php name_file.php`
 - After you type your password
-- Or you can sudo file this to install Spartan Loader [Click Here!](https://github.com/VennDev/SpartanPHP/tree/main/installer)
+- Or you can sudo file this to install **Spartan Loader** [Click Here!](https://github.com/VennDev/SpartanPHP/tree/main/installer)
 - Do the above actions to complete the download of a **Spartan** loader for `linux`!
 - From here you can run all `.php` files encoded by **Spartan**.
