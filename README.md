@@ -15,5 +15,5 @@
 ### -Linux- ###
 - You must run with cmd `sudo php name_file.php`
 - After you type your password
-- Do the above actions to complete the download of a **Spartan** downloader for `linux`!
+- Do the above actions to complete the download of a **Spartan** loader for `linux`!
 - From here you can run all `.php` files encoded by **Spartan**.
