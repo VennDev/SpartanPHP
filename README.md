@@ -9,3 +9,10 @@
 
 # Note
 - You can test file  `Test.php` in here [Click](https://github.com/VennDev/SpartanPHP/tree/main/code)
+## How to run file encoded ? ##
+### Windows ###
+- Just run file encoded with cmd `php name_file.php`
+### Linux ###
+- You must run with cmd `sudo php name_file.php`
+- After you type your password
+- Do the above actions to complete the download of a Spartan downloader for linux!
