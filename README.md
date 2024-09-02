@@ -12,9 +12,11 @@
 ## How to run file encoded ? ##
 ### -Windows- ###
 - Just run file encoded with cmd `php name_file.php`
-### -Linux- ###
+### -Linux x86_64- ###
 - You must run with cmd `sudo php name_file.php`
 - After you type your password
 - Or you can **sudo** file this to install **Spartan Loader** [Click Here!](https://github.com/VennDev/SpartanPHP/tree/main/installer)
 - Do the above actions to complete the download of a **Spartan** loader for `linux`!
 - From here you can run all `.php` files encoded by **Spartan**.
+### -Linux Arm x64- ###
+- Also similar to 'linux x86_64' however there are some things that are different if you are knowledgeable about how to add 'php.ini' configuration to your php and run it similar to the steps of 'linux x86_64'
