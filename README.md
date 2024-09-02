@@ -19,4 +19,4 @@
 - Do the above actions to complete the download of a **Spartan** loader for `linux`!
 - From here you can run all `.php` files encoded by **Spartan**.
 ### -Linux Arm x64- ###
-- Also similar to 'linux x86_64' however there are some things that are different if you are knowledgeable about how to add 'php.ini' configuration to your php and run it similar to the steps of 'linux x86_64'
+- Also similar to `linux x86_64` however there are some things that are different if you are knowledgeable about how to add `php.ini` configuration to your php and run it similar to the steps of `linux x86_64`
